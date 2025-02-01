@@ -462,6 +462,8 @@ box-shadow: -1px 2px 32px 5px rgba(0,0,0,0.44);
 
 /* EDUCATION-SECTION-END */
 
+/* PROJECT-SECTION-START */
+
 .project-section{
 
     background-color: rgb(196, 190, 190);
@@ -487,6 +489,21 @@ width: 25%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    margin-bottom: 30px;
+}
+
+/* PROJECT-SECTION-END */
+
+/* GITHUB-SECTION-START */
+
+.github-section{
+
+    height: 70vh;
+    background-image: url(./backimage.jpeg);
+    background-repeat: none;
+    background-size:cover;
+    opacity: 1.5;
+
 }
 
 footer{
