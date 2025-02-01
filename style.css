@@ -477,6 +477,31 @@ box-shadow: -1px 2px 32px 5px rgba(0,0,0,0.44);
     text-align: center
 }
 
+.button11{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(196, 190, 190); 
+  
+
+}
+
+.education .button1{
+
+    margin: auto;
+   
+    border: none;
+    padding: 10px 15px;
+    background-color: #C4BEBE;
+    box-shadow: -3px 6px 26px 5px rgba(0,0,0,0.41);
+    -webkit-box-shadow: -3px 6px 26px 5px rgba(0,0,0,0.41);
+    -moz-box-shadow: -3px 6px 26px 5px rgba(0,0,0,0.41);
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
 /* EDUCATION-SECTION-END */
 
 /* PROJECT-SECTION-START */
